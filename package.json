@@ -1,6 +1,6 @@
 {
 	"name": "pomelo-zookeeper-plugin",
-	"version": "0.0.8",
+	"version": "0.0.9",
 	"private": false,
 	"dependencies": {
   	"node-zookeeper-client": "0.2.0",
